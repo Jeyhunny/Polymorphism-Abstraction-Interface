@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C#\Interface\Polymorphism,Abstraction,Interface\Polymorphism,Abstraction,Interface\obj\Debug\net6.0\Polymorphism,Abstraction,Interface.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C#\Interface\Polymorphism,Abstraction,Interface\Polymorphism,Abstraction,Interface\obj\Debug\net6.0\Polymorphism,Abstraction,Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C#\Interface\Polymorphism,Abstraction,Interface\Polymorphism,Abstraction,Interface\obj\Debug\net6.0\Polymorphism,Abstraction,Interface.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C#\Interface\Polymorphism,Abstraction,Interface\Polymorphism,Abstraction,Interface\obj\Debug\net6.0\Polymorphism,Abstraction,Interface.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C#\Interface\Polymorphism,Abstraction,Interface\Polymorphism,Abstraction,Interface\obj\Debug\net6.0\Polymorphism,Abstraction,Interface.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C#\Interface\Polymorphism,Abstraction,Interface\Polymorphism,Abstraction,Interface\bin\Debug\net6.0\Polymorphism,Abstraction,Interface.exe
+C:\Users\Acer\Desktop\C#\Interface\Polymorphism,Abstraction,Interface\Polymorphism,Abstraction,Interface\bin\Debug\net6.0\Polymorphism,Abstraction,Interface.deps.json
+C:\Users\Acer\Desktop\C#\Interface\Polymorphism,Abstraction,Interface\Polymorphism,Abstraction,Interface\bin\Debug\net6.0\Polymorphism,Abstraction,Interface.runtimeconfig.json
+C:\Users\Acer\Desktop\C#\Interface\Polymorphism,Abstraction,Interface\Polymorphism,Abstraction,Interface\bin\Debug\net6.0\Polymorphism,Abstraction,Interface.dll
+C:\Users\Acer\Desktop\C#\Interface\Polymorphism,Abstraction,Interface\Polymorphism,Abstraction,Interface\bin\Debug\net6.0\Polymorphism,Abstraction,Interface.pdb
+C:\Users\Acer\Desktop\C#\Interface\Polymorphism,Abstraction,Interface\Polymorphism,Abstraction,Interface\obj\Debug\net6.0\Polymorphism,Abstraction,Interface.dll
+C:\Users\Acer\Desktop\C#\Interface\Polymorphism,Abstraction,Interface\Polymorphism,Abstraction,Interface\obj\Debug\net6.0\refint\Polymorphism,Abstraction,Interface.dll
+C:\Users\Acer\Desktop\C#\Interface\Polymorphism,Abstraction,Interface\Polymorphism,Abstraction,Interface\obj\Debug\net6.0\Polymorphism,Abstraction,Interface.pdb
+C:\Users\Acer\Desktop\C#\Interface\Polymorphism,Abstraction,Interface\Polymorphism,Abstraction,Interface\obj\Debug\net6.0\Polymorphism,Abstraction,Interface.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C#\Interface\Polymorphism,Abstraction,Interface\Polymorphism,Abstraction,Interface\obj\Debug\net6.0\ref\Polymorphism,Abstraction,Interface.dll
